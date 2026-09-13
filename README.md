@@ -41,7 +41,7 @@ This repo is a monorepo. Railway serves `backend/`. Vercel serves `frontend/`.
 ### A. Railway — FastAPI
 
 1. Go to [railway.app](https://railway.app) and create a new project from this GitHub repo.
-2. Set **Root Directory** to `backend`.
+2. Optional: set **Root Directory** to `backend`. The repo also includes a root `Procfile` so Railway can build from the monorepo root.
 3. Railway will detect Python and run:
 
    `uvicorn main:app --host 0.0.0.0 --port $PORT`
