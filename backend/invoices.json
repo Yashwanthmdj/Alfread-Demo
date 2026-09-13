@@ -1,0 +1,110 @@
+[
+  {
+    "id": "INV-1842",
+    "customerName": "Helios Solar Partners",
+    "amount": 156000,
+    "dueDate": "2026-07-14",
+    "daysOverdue": 62,
+    "status": "Approved",
+    "approvedAt": "2026-09-13T19:12:04+00:00"
+  },
+  {
+    "id": "INV-1901",
+    "customerName": "Sterling Construction Co.",
+    "amount": 97500,
+    "dueDate": "2026-07-23",
+    "daysOverdue": 53,
+    "status": "Approved",
+    "approvedAt": "2026-09-13T19:08:20+00:00"
+  },
+  {
+    "id": "INV-1918",
+    "customerName": "Apex Manufacturing",
+    "amount": 84250,
+    "dueDate": "2026-07-29",
+    "daysOverdue": 47,
+    "status": "Overdue",
+    "approvedAt": null
+  },
+  {
+    "id": "INV-1966",
+    "customerName": "Vertex Analytics",
+    "amount": 28750,
+    "dueDate": "2026-08-10",
+    "daysOverdue": 35,
+    "status": "Overdue",
+    "approvedAt": null
+  },
+  {
+    "id": "INV-2014",
+    "customerName": "Orion Aerospace",
+    "amount": 210000,
+    "dueDate": "2026-08-16",
+    "daysOverdue": 29,
+    "status": "Overdue",
+    "approvedAt": null
+  },
+  {
+    "id": "INV-2048",
+    "customerName": "Meridian Health Systems",
+    "amount": 41900,
+    "dueDate": "2026-08-24",
+    "daysOverdue": 21,
+    "status": "Overdue",
+    "approvedAt": null
+  },
+  {
+    "id": "INV-2061",
+    "customerName": "Meadowbrook Farms",
+    "amount": 5890,
+    "dueDate": "2026-08-27",
+    "daysOverdue": 18,
+    "status": "Overdue",
+    "approvedAt": null
+  },
+  {
+    "id": "INV-2077",
+    "customerName": "Oak & Pine Interiors",
+    "amount": 7650,
+    "dueDate": "2026-08-31",
+    "daysOverdue": 14,
+    "status": "Overdue",
+    "approvedAt": null
+  },
+  {
+    "id": "INV-2094",
+    "customerName": "Blue Harbor Shipping",
+    "amount": 19200,
+    "dueDate": "2026-09-03",
+    "daysOverdue": 11,
+    "status": "Overdue",
+    "approvedAt": null
+  },
+  {
+    "id": "INV-2110",
+    "customerName": "Northwind Logistics",
+    "amount": 12400,
+    "dueDate": "2026-09-06",
+    "daysOverdue": 8,
+    "status": "Overdue",
+    "approvedAt": null
+  },
+  {
+    "id": "INV-2122",
+    "customerName": "Cascade Retail Group",
+    "amount": 3280,
+    "dueDate": "2026-09-09",
+    "daysOverdue": 5,
+    "status": "Overdue",
+    "approvedAt": null
+  },
+  {
+    "id": "INV-2135",
+    "customerName": "Lumen Digital Studio",
+    "amount": 2140,
+    "dueDate": "2026-09-10",
+    "daysOverdue": 4,
+    "status": "Overdue",
+    "approvedAt": null
+  }
+]
